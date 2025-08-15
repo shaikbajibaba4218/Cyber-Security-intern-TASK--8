@@ -1,0 +1,44 @@
+ProtonVPN Free Tier – Setup and Privacy Report
+
+Step 1 – Choose a Reputable VPN Service and Sign Up
+Select ProtonVPN Free Tier from https://protonvpn.com/free-vpn. Click 'Get ProtonVPN Free',
+create your account (username, strong password, email) and verify your email. Optional: enable
+2FA for extra security.
+
+
+Step 2 – Download and Install the VPN Client
+Go to https://protonvpn.com/download and download the client for your OS (Windows, macOS,
+Linux, Android, iOS). Install with default settings. Close other VPNs before installing to avoid
+conflicts.
+
+
+Step 3 – Connect to a VPN Server
+Open ProtonVPN, log in, and choose a Free server (marked with green 'Free' tag). For best speed,
+pick the closest location. Click Connect and wait until status is 'Connected'.
+
+
+Step 4 – Verify Your IP Address
+While connected, visit https://whatismyipaddress.com to confirm your IP and location have changed
+to the VPN server’s location.
+
+
+Step 5 – Test Encrypted Browsing
+Browse any website and ensure HTTPS (lock icon) is visible. Optionally, use
+https://www.dnsleaktest.com to confirm DNS traffic is routed through ProtonVPN.
+
+
+Step 6 – Disconnect and Compare
+Disconnect from ProtonVPN and recheck your IP. Compare browsing speed and IP address before
+and after VPN connection. Free servers may be slower due to congestion, distance, and encryption
+overhead.
+
+
+Step 7 – Research VPN Encryption and Privacy Features
+ProtonVPN uses AES-256 encryption, OpenVPN/WireGuard protocols, DNS leak protection, and
+has a strict no-logs policy. Based in Switzerland with strong privacy laws.
+
+
+Step 8 – Summary of Benefits and Limitations
+Benefits: - Hides IP and location - AES-256 encryption for security - No-logs policy - DNS leak
+protection & Kill Switch Limitations: - Slower speeds on free servers - Limited server locations - No
+streaming access on free tier - Must trust provider - Blocked in some networks
